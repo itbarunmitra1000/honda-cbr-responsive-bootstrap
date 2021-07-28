@@ -40,3 +40,14 @@ hr{
     padding: 1px 0;
     
 }
+
+/* ..............latest news card section --------- */
+
+.read_more_btn{
+        border: 2px solid #EA8167 ;
+
+}
+.active, .read_more_btn:active{
+    background-color: #E76F51;
+    color: white;
+}
