@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* header menu banner css  */
+
+.bg_color{
+    background-color: #264653;
+}
+.login_btn{
+    background-color: #E76F51;
+
+}
