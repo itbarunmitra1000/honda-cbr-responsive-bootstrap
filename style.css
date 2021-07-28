@@ -1,7 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
 }
 
 /* header menu banner css  */
@@ -9,7 +15,28 @@
 .bg_color{
     background-color: #264653;
 }
-.login_btn{
+.login_purchase_btn{
     background-color: #E76F51;
 
+}
+.text_custom_clr{
+    color: #E0E0E0;
+    font-size: 13px;
+}
+
+/* ..............................fetured bike style ---------- */
+
+.bike_color{
+    filter: grayscale(100%);
+}
+
+.feture_txt_clr{
+    color: #EA8167;
+    font-size: 12px;
+}
+hr{
+    color: #EA8167;
+    width:50px;
+    padding: 1px 0;
+    
 }
