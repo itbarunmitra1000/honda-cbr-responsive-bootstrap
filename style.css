@@ -68,3 +68,9 @@ hr{
 .banker_details_clr{
     color: #6C6C6C;
 }
+
+/* ----------footer---- */
+.app_store_icon{
+    width: 135px;
+    height: 40px;
+}
