@@ -21,7 +21,7 @@ body{
 }
 .text_banner_clr{
     color: #E0E0E0;
-    font-size: 13px;
+    font-size: 12px;
 }
 
 /* ..............................fetured bike style ---------- */
@@ -54,11 +54,6 @@ hr{
 
 /* happy clients stayle  */
 
-.clients_img{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-}
 
 .star_color i{
     color: #E77C40;
