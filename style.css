@@ -19,7 +19,7 @@ body{
     background-color: #E76F51;
 
 }
-.text_custom_clr{
+.text_banner_clr{
     color: #E0E0E0;
     font-size: 13px;
 }
@@ -50,4 +50,20 @@ hr{
 .active, .read_more_btn:active{
     background-color: #E76F51;
     color: white;
+}
+
+/* happy clients stayle  */
+
+.star_color i{
+    color: #E77C40;
+}
+
+.clients_name_clr{
+    color: #23A6F0;
+}
+.clients_txt_clr{
+    color: #E77C40;
+}
+.banker_details_clr{
+    color: #6C6C6C;
 }
