@@ -10,7 +10,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-/* header menu banner css  */
+/* --------------header menu banner css ------------- */
 
 .bg_color{
     background-color: #264653;
@@ -34,7 +34,7 @@ body{
     color: #EA8167;
     font-size: 12px;
 }
-hr{
+.fetured_bikes hr{
     color: #EA8167;
     width:50px;
     padding: 1px 0;
@@ -62,13 +62,18 @@ hr{
 .clients_name_clr{
     color: #23A6F0;
 }
-.clients_txt_clr{
+.head_txt_clr{
     color: #E77C40;
 }
 .banker_details_clr{
     color: #6C6C6C;
 }
 
+/* ..............upcoming bike ----------- */
+.upcoming_bike_card_txt{
+    font-size:10px ;
+    color: #6C6C6C;
+}
 /* ----------footer---- */
 .app_store_icon{
     width: 135px;
