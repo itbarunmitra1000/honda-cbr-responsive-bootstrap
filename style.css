@@ -21,7 +21,7 @@ body{
 }
 .text_banner_clr{
     color: #E0E0E0;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 /* ..............................fetured bike style ---------- */
@@ -32,11 +32,11 @@ body{
 
 .feture_txt_clr{
     color: #EA8167;
-    font-size: 12px;
+    font-size: 14px;
 }
 .fetured_bikes hr{
     color: #EA8167;
-    width:50px;
+    width:60px;
     padding: 1px 0;
     
 }
@@ -52,7 +52,7 @@ body{
     color: white;
 }
 
-/* happy clients stayle  */
+/*............... happy clients stayle  */
 
 
 .star_color i{
@@ -71,7 +71,7 @@ body{
 
 /* ..............upcoming bike ----------- */
 .upcoming_bike_card_txt{
-    font-size:10px ;
+    font-size:14px ;
     color: #6C6C6C;
 }
 
@@ -91,7 +91,7 @@ body{
     font-size: 14px;
 }
 .news_p_sizing{
-    font-size: 12px;
+    font-size: 14px;
     color: #6C6C6C;
 }
 /* ----------footer---- */
