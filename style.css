@@ -83,6 +83,12 @@ body{
     
 
 }
+.news_about_video h1{
+    background-color: red;
+     width: 180px;
+     height: 40px;
+     
+}
 .news_about_size{
     font-size: 14px;
 }
@@ -95,3 +101,4 @@ body{
     width: 135px;
     height: 40px;
 }
+
